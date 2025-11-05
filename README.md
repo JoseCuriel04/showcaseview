@@ -119,7 +119,7 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más 
 Si tienes preguntas o sugerencias, no dudes en contactarme:
 
 - **Nombre:** José Luis Curiel López  
-- **Correo:** tu_correo@ejemplo.com  
+- **Correo:** joselcl04@gmail.com  
 - **GitHub:** [https://github.com/JoseCuriel04](https://github.com/JoseCuriel04)  
 
 ---
